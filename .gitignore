@@ -1,0 +1,9 @@
+.gradle
+.idea
+allure-report
+allure-results
+build
+gradle
+gradlew
+gradlew.bat
+settings.gradle
